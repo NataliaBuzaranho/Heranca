@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\obj\Debug\net8.0\Ex - 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\obj\Debug\net8.0\Ex - 03.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\obj\Debug\net8.0\Ex - 03.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\obj\Debug\net8.0\Ex - 03.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\bin\Debug\net8.0\Ex - 03.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\bin\Debug\net8.0\Ex - 03.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\bin\Debug\net8.0\Ex - 03.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\bin\Debug\net8.0\Ex - 03.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\bin\Debug\net8.0\Ex - 03.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\obj\Debug\net8.0\Ex - 03.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\obj\Debug\net8.0\refint\Ex - 03.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\obj\Debug\net8.0\Ex - 03.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\obj\Debug\net8.0\Ex - 03.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Ex - 03\Ex - 03\obj\Debug\net8.0\ref\Ex - 03.dll
